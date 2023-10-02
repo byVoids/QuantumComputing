@@ -5,7 +5,7 @@ This GitHub repository was created to share my knowledge and learnings regarding
 ## Contents
 
 1. [Mathematics Fundamentals](./Mathematics%20Fundamentals/)
-2. [Simple Explanations](./SimpleExplanations/)
+2. [Simple Explanations](./Simple%20Explanations/)
 
 
 
