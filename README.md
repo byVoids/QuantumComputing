@@ -4,7 +4,8 @@ This GitHub repository was created to share my knowledge and learnings regarding
 
 ## Contents
 
-1. [Mathematics Fundamentals](./Mathematics Fundamentals/)
+1. [Mathematics Fundamentals](./Mathematics%20Fundamentals/)
+
 
 
 
